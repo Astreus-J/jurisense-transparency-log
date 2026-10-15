@@ -1,0 +1,4 @@
+JuriSense Gate transparency log -- fallback verification mechanism, not a
+blockchain anchor (docs/09-planning/risks.md risk 4).
+
+Ed25519 public key (hex): dc11e76d8c32950068e23908f57d26f673f5e6fe1ab99383b5cff11bc4021afc
